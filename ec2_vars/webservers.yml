@@ -1,0 +1,10 @@
+ec2_keypair: "mosorio"
+ec2_security_group: "sg-ba25eac1"
+ec2_instance_type: "t2.micro"
+ec2_image: "ami-f5f41398"
+ec2_subnet_ids: ['subnet-88630aa2']
+ec2_region: "us-east-1"
+ec2_tag_Name: "webserver"
+ec2_tag_Type: "webserver"
+ec2_tag_Environment: "production"
+ec2_volume_size: 10
